@@ -9,7 +9,7 @@ while True:
     count += 1
     
     if count == 10:  
-        print(f"Hakkınız doldu! tahimn edilemeyen sayı: {randNumber}")
+        print(f"Hakkınız doldu! tahmin edilemeyen sayı: {randNumber}")
         break      
 
     if number == 0:
